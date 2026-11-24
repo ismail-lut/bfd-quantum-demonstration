@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "How much does the formulation matter? Penalty-weight sensitivity of a reverse logistics QUBO on D-Wave quantum annealing hardware"
+version: 1.0.0
+type: software
+authors:
+  - family-names: Zahoor
+    given-names: Ismail
+    affiliation: "Arcada University of Applied Sciences"
+keywords:
+  - quantum annealing
+  - QUBO
+  - penalty calibration
+  - circular economy
+  - reverse logistics
+  - facility location

@@ -1,0 +1,19 @@
+# Versions the reproduction and test suite were verified with (17 November 2026,
+# Python 3.13). The archived hardware run of 5 November 2026 used Google Colab's
+# environment at the time; its exact package versions were not recorded.
+
+# Optimization and quantum annealing
+dwave-ocean-sdk==9.5.0        # dimod 0.12.22, dwave-system 1.36.0, dwave-samplers 1.8.0,
+                              # dwave-cloud-client 0.14.8, minorminer 0.2.22
+ortools==9.15.6755            # CP-SAT exact baseline
+
+# Analysis and figures
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+
+# Notebook build and tests (not needed to run the notebook in Colab)
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.4.0
+pytest==9.1.1
