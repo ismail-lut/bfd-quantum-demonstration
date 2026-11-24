@@ -1,0 +1,5 @@
+instance,solver,submissions,submissions_with_breaks,mean_pct,max_pct
+A,qpu,360,196,0.0039,0.0519
+B,qpu,120,118,0.0138,0.1019
+B,qpu_fixed_chain,120,113,0.0071,0.0269
+C,qpu,240,240,0.0239,0.3276

@@ -1,0 +1,4 @@
+instance,collection_points,candidate_facilities,binary_variables,optimum_eur,facilities_opened,total_return_volume_units
+A,8,3,27,7571.3243,1,1113
+B,12,4,52,8253.4102,0 3,1388
+C,20,5,105,14153.8623,2 3,2449

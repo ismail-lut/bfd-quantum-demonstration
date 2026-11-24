@@ -1,0 +1,25 @@
+Solver,Penalty,Runs,Feasible runs,Mean cost (EUR),Mean gap (%),SD (pp),Best (%),Worst (%),Feasible reads (%),Chain breaks (%),QPU time (ms)
+D-Wave Advantage QPU,0.1,20,8,9571.0,16.0,9.3,3.5,26.8,0.0,0.0,130.8
+D-Wave Advantage QPU,0.25,20,20,9017.0,9.3,5.1,0.0,17.8,20.0,0.0,129.0
+D-Wave Advantage QPU,0.5,20,20,9719.0,17.8,5.7,5.5,23.6,43.0,0.0,127.3
+D-Wave Advantage QPU,1.0,20,20,10227.0,23.9,6.5,8.4,33.1,54.0,0.0,123.8
+D-Wave Advantage QPU,2.0,20,20,10499.0,27.2,6.8,11.9,35.5,54.0,0.0,123.0
+D-Wave Advantage QPU,4.0,20,20,10783.0,30.6,6.0,16.5,40.1,57.0,0.0,127.3
+Leap hybrid solver,0.1,6,0,,,,,,0.0,,
+Leap hybrid solver,0.25,6,6,8253.0,0.0,0.0,0.0,0.0,100.0,,
+Leap hybrid solver,0.5,6,6,8292.0,0.5,0.9,0.0,2.2,100.0,,
+Leap hybrid solver,1.0,6,6,8712.0,5.6,3.4,1.5,11.0,100.0,,
+Leap hybrid solver,2.0,6,6,9128.0,10.6,4.7,4.1,18.4,100.0,,
+Leap hybrid solver,4.0,6,6,9298.0,12.7,4.2,5.6,18.4,100.0,,
+"QPU, fixed chain strength",0.1,20,0,,,,,,0.0,0.0,133.0
+"QPU, fixed chain strength",0.25,20,0,,,,,,0.0,0.0,126.8
+"QPU, fixed chain strength",0.5,20,3,14710.0,78.2,13.1,63.1,86.7,0.0,0.0,130.0
+"QPU, fixed chain strength",1.0,20,20,12647.0,53.2,8.4,37.6,70.3,1.0,0.0,128.8
+"QPU, fixed chain strength",2.0,20,20,11257.0,36.4,5.2,26.9,46.1,12.0,0.0,128.5
+"QPU, fixed chain strength",4.0,20,20,10559.0,27.9,8.3,6.2,40.2,57.0,0.0,126.6
+Simulated annealing (classical),0.1,20,0,,,,,,0.0,,
+Simulated annealing (classical),0.25,20,20,8259.0,0.1,0.2,0.0,0.7,27.0,,
+Simulated annealing (classical),0.5,20,20,8799.0,6.6,4.2,0.0,13.2,71.0,,
+Simulated annealing (classical),1.0,20,20,9624.0,16.6,4.0,8.9,23.2,100.0,,
+Simulated annealing (classical),2.0,20,20,9972.0,20.8,4.7,10.4,28.5,100.0,,
+Simulated annealing (classical),4.0,20,20,10034.0,21.6,5.8,8.3,30.3,100.0,,

@@ -1,0 +1,5 @@
+solver,calls,qpu_access_time_s,charge_time_s
+hybrid,36,0.0,107.686
+qpu,720,90.624,0.0
+qpu_fixed_chain,120,15.477,0.0
+sa,360,0.0,0.0

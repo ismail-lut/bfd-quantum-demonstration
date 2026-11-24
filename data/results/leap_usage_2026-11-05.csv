@@ -1,0 +1,4 @@
+scope,solver,time_used_s,problems_submitted,average_time_per_problem_s,estimated_problems_remaining
+direct_qpu_total_all_regions,Advantage_system6,114.481,899,0.127,26525
+hybrid_solvers_total_all_regions,hybrid_binary_quadratic_model_version2p,107.686,36,2.991,1129
+solvers_total_all_regions,all,222.167,935,0.237,14216

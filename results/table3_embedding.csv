@@ -1,0 +1,4 @@
+instance,logical_variables,physical_qubits_mean,longest_chain,chain_break_fraction_mean,qpu_runs,qubits_per_variable
+A,27,32.33,3.0,0.0,360,1.2
+B,52,78.06,7.0,0.0,240,1.5
+C,105,198.43,11.0,0.0,240,1.89

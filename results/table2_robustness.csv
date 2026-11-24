@@ -1,0 +1,9 @@
+Instance,Variables,Solver,Replications,Best penalty,Best gap (%),Worst penalty,Worst gap (%),Spread (pp)
+A,27,D-Wave Advantage QPU,60,0.25,0.0,4.0,7.7,7.7
+A,27,Simulated annealing (classical),20,0.25,0.0,4.0,3.1,3.1
+B,52,D-Wave Advantage QPU,20,0.25,9.3,4.0,30.6,21.4
+B,52,Leap hybrid solver,6,0.25,0.0,4.0,12.7,12.7
+B,52,"QPU, fixed chain strength",20,4.0,27.9,0.5,78.2,50.3
+B,52,Simulated annealing (classical),20,0.25,0.1,4.0,21.6,21.5
+C,105,D-Wave Advantage QPU,40,0.1,22.5,4.0,36.5,14.0
+C,105,Simulated annealing (classical),20,0.25,12.2,4.0,32.7,20.5
